@@ -1,3 +1,5 @@
+// Thanks GreenStack Channel
+
 function Num(val){
     document.getElementById('result').value += val;
 }
