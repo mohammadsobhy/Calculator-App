@@ -1,0 +1,34 @@
+body{
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+}
+table.tbl{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 15px;
+    
+}
+input[type="button"]{
+    color: black;
+    cursor: pointer;
+    background-color: white;
+    font-size: 2em;
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 100%;
+    margin: 10px 60px 10px 0px;
+}
+input[type="text"]{
+    color: black;
+    background: white;
+    border: 1px solid #ddd;
+    padding: 20px;
+    font-size: 2em;
+    width: 100%;
+}
+#clear{
+    background: #ff9fa8;
+    border: 1px solid #ff9fa8;
+}
